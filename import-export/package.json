@@ -1,0 +1,14 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "simple import-export example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testScript.js"
+  },
+  "author": "AlexWI123",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
