@@ -4,7 +4,7 @@
   "description": "simple import-export example",
   "main": "index.js",
   "scripts": {
-    "test": "node testScript.js"
+    "test": "node -r esm testScript.js"
   },
   "author": "AlexWI123",
   "license": "ISC",
