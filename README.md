@@ -1,5 +1,5 @@
 ## :fireworks: Welcome to a-daily-js!
-You will find here simple js examples.
+You will find here simple to complex js examples.
 
 ## :notes: Table of contents
 - import-export: folder contains js import/export examples [here](import-export/readme.md)
