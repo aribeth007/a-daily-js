@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": true,
+    "env": {
+        "MY_ENV_VAR_FROM_CYPRESS_JSON": "YES! I'm here!"
+    }
+}
