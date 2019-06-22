@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "AlexWI123",
+  "license": "AlexWI123",
   "devDependencies": {
     "cypress": "^3.3.1"
   }
