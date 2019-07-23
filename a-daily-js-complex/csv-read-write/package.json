@@ -1,0 +1,15 @@
+{
+  "name": "csv-read-write",
+  "version": "1.0.0",
+  "description": "simple read from a csv, transform and write to another csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexwi",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.5.0",
+    "csvtojson": "^2.0.10"
+  }
+}

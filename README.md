@@ -12,3 +12,6 @@ You will find here simple to complex js examples.
 
 ### a-daily-js-test
 - cypress-example: folder contains a simple cypress example. It shows the usage of before, beforeEach, cypress enviroment variables and a simple cypress request. It uses cypress logging. [here](a-daily-js-test/cypress-example/readme.md)
+
+### a-daily-js-complex
+- csv-read-write: folder contains csv read/write examples [here](a-daily-js-complex/csv-read-write/readme.md)
