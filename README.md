@@ -15,3 +15,4 @@ You will find here simple to complex js examples.
 
 ### a-daily-js-complex
 - csv-read-write: folder contains csv read/write examples [here](a-daily-js-complex/csv-read-write/readme.md)
+- graphql-example-1: simple hello world example with graphqa [here](a-daily-js-complex/graphql-example-1/readme.md)
