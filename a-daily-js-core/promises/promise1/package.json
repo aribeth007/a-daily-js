@@ -1,0 +1,22 @@
+{
+  "name": "a-daily-js-core-promises-promise1",
+  "version": "1.0.0",
+  "description": "simple promises example - promise1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise",
+    "javascript",
+    "javascript-example",
+    "async",
+    "await",
+    "async/await"
+  ],
+  "author": "AlexWI123",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
